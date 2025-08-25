@@ -12,3 +12,6 @@ I’m learning how to use GitHub Issues.
 
 ## Issue Updates
 Try the "see#". 
+
+## Fun Fact
+Hello world!
