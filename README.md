@@ -15,3 +15,5 @@ Try the "see#".
 
 ## Fun Fact
 Hello world!
+## CLI
+Usage: python cli.py --help
